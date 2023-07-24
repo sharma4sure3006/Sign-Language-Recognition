@@ -9,6 +9,7 @@ The system utilizes state-of-the-art deep learning techniques and the power of M
 * Multi-language support: The system supports multiple sign languages, making it versatile and applicable to various regions and communities.
 * High accuracy and performance: The deep learning model achieves a high accuracy rate of over 95%, ensuring reliable and precise translation of hand gestures.
 * Simple and intuitive user interface: The user interface is designed to be user-friendly, allowing users to easily interact with the application and see the translated sign language phrases.
+
 This project serves as an essential tool for promoting inclusivity and accessibility, allowing sign language users to communicate effortlessly with people who may not be familiar with sign languages. Whether it's in educational, medical, or daily communication scenarios, the Sign Language Detection Project offers a powerful solution to enhance interaction and understanding for all individuals.
 
 # Getting Started
