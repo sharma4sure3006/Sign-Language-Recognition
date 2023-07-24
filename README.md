@@ -24,7 +24,7 @@ This project serves as an essential tool for promoting inclusivity and accessibi
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your_username/sign-language-detection.git
+   git clone https://github.com/sharma4sure3006/sign-language-detection.git
 
 2. Install the required dependencies:
    pip install -r requirements.txt
@@ -56,5 +56,5 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 If you have any questions or want to get in touch, feel free to contact me:
 
 Email: aloksh3006@gmail.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+LinkedIn: https://www.linkedin.com/in/alok-sharma-73a660237/
+GitHub: https://github.com/sharma4sure3006
